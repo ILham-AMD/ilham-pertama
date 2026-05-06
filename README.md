@@ -7,3 +7,6 @@ yang mau ku tuju adalah
 - PHP
 - PYTHON
 - dll
+anjay
+dan
+anjay
