@@ -5,5 +5,7 @@ yang mau ku tuju adalah
 - HTMML
 - CSS
 - PHP
-- PYTHON
+- PYTHOND
+- JS
 - dll
+
